@@ -1,0 +1,15 @@
+.siel{
+    background-color: black;
+}
+.emmie{
+    background-color: greenyellow;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.siko{
+    color: white;
+}
+.siko{
+    text-align: center;
+}

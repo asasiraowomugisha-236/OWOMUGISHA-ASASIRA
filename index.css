@@ -1,0 +1,26 @@
+.aasi{
+    background-color: black;
+}
+.emmie{
+    color: darkorange;
+    background-color:greenyellow;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.sot{
+    color: white;
+    text-align: center;
+}
+.sese{
+    color: white;
+}
+.sese{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lyi{
+    list-style: none;
+}
